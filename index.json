@@ -9,15 +9,15 @@
   {
     "name": "Red federation",
     "author": "Junkman",
-    "description": "For our Group, Aura abilitlies are gifts from Ho-oh before it passed, Also story fuel for later on. Also pokemon that aren't out yet, mainly gen VII.",
-    "version": 1,
+    "description": "For our Group, Aura abilitlies are gifts from Ho-oh before it passed. Actual fakemon art by ShinArt on Youtube. Mainly Gen VII.",
+    "version": 2,
     "path": "packages/Red Federation.fkmn"
-  }, 
+  },
   {
-	"name": "Poke by Adod",
-	"author": "JuanTipo",
-	"description": "Variant types created by our DM, images to come.",
-	"version": 1,
+    "name": "Poke by Adod",
+    "author": "JuanTipo",
+    "description": "Variant types created by our DM, images to come.",
+    "version": 1,
     "path": "packages/AdodsOPEmporium.fkmn"
-}
+  }
 ]
