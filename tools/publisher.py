@@ -26,6 +26,13 @@ def options():
 
 
 def add(package_path, package_index):
+    if not package_index.exists:
+        print("Path to the package index doesn't exists")
+        return
+    if not package_path.exists:
+        print("Package not found")
+        return
+
     package_path = Path(package_path)
     package_index = Path(package_index)
     z = zipfile.ZipFile(package_path)
@@ -45,6 +52,8 @@ def add(package_path, package_index):
     index_json["path"] = "packages/" + str(package_path.name)
 
     for package in package_index_json:
+        if package["version"] == index_json["version"]:
+            print("Package have the same version", index_json["version"])
         if package["name"] == index_json["name"]:
             package["name"] = index_json["name"]
             package["author"] = index_json["author"]
@@ -68,7 +77,8 @@ def print_help():
 def main():
     _options = options()
     if _options.command == "add":
-        add(_options.package, _options.package_index)
+        package_index = Path(_options.package_index) if _options.package_index else Path(__file__).absolute().parent.parent
+        add(Path(_options.package), package_index)
     elif _options.command == "peek":
         raise NotImplementedError
     else:
