@@ -19,5 +19,12 @@
     "description": "Variant types created by our DM, images to come.",
     "version": 3,
     "path": "packages/AdodsOPEmporium.fkmn"
+  },
+  {
+    "name": "Mystifying Marvels",
+    "author": "Jerakin",
+    "description": "Pokémon from future generations that are needed for my campaign.",
+    "version": 1,
+    "path": "packages/Mystifying Marvels.fkmn"
   }
 ]
