@@ -26,5 +26,12 @@
     "description": "Pokémon from future generations that are needed for my campaign.",
     "version": 1,
     "path": "packages/Mystifying Marvels.fkmn"
+  },
+  {
+    "name": "Strict Genders",
+    "author": "Jerakin",
+    "description": "Enforces strict genders on Pokémon that have it in the game. Not all Pokémon can be any gender.",
+    "version": 1,
+    "path": "packages/strict_gender.fkmn"
   }
 ]
