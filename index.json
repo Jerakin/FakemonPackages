@@ -3,14 +3,14 @@
     "name": "Legendary Baby Birds",
     "path": "packages/baby birds.fkmn",
     "author": "Jerakin",
-    "description": "The Legendary Baby Birds from Oak's Parcel by JOEtheDM.\nArt by ShinArt on YouTube.",
+    "description": "Kanto Legendary Baby Birds JOEtheDM.\nArt by ShinArt on YouTube.",
     "version": 3
   },
   {
     "name": "Red federation",
     "author": "Junkman",
-    "description": "For our Group, Aura abilitlies are gifts from Ho-oh before it passed. Actual fakemon art by ShinArt on Youtube. Mainly Gen VII.",
-    "version": 3,
+    "description": "Aura abilitlies are gifts from Ho-oh before it passed. Actual fakemon art by ShinArt on Youtube. Mainly Gen VII.",
+    "version": 5,
     "path": "packages/Red Federation.fkmn"
   },
   {
@@ -19,5 +19,12 @@
     "description": "Variant types created by our DM, images to come.",
     "version": 3,
     "path": "packages/AdodsOPEmporium.fkmn"
+  },
+  {
+    "name": "Mystifying Marvels",
+    "author": "Jerakin",
+    "description": "Pokémon from future generations that are needed for my campaign.",
+    "version": 1,
+    "path": "packages/Mystifying Marvels.fkmn"
   }
 ]
