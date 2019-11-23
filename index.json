@@ -33,5 +33,12 @@
     "description": "Enforces strict genders on Pokémon that have it in the game. Not all Pokémon can be any gender.",
     "version": 1,
     "path": "packages/strict_genders.fkmn"
+  },
+  {
+    "name": "Rocaroja",
+    "path": "packages/rocaroja.fkmn.fkmn",
+    "author": "fearjunkie",
+    "description": "",
+    "version": 1
   }
 ]

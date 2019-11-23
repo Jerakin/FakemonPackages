@@ -54,14 +54,23 @@ def add(package_path, package_index):
         package_index_json = json.load(fp)
 
     for package in package_index_json:
-        if package["version"] == index_json["version"]:
-            print("Package have the same version", index_json["version"])
         if package["name"] == index_json["name"]:
+            if package["version"] == index_json["version"]:
+                print("Package have the same version", index_json["version"])
             package["name"] = index_json["name"]
             package["author"] = index_json["author"]
             package["description"] = index_json["description"]
             package["version"] = index_json["version"]
             break
+    else:  # NoBreak
+        entry = {
+            "name": index_json["name"],
+            "path": "packages/" + package_name + ".fkmn",
+            "author": index_json["author"],
+            "description": index_json["description"],
+            "version": index_json["version"]
+        }
+        package_index_json.append(entry)
 
     with package_index_file.open("w") as fp:
         json.dump(package_index_json, fp, indent="  ", ensure_ascii=False)
