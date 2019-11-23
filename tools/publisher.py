@@ -38,18 +38,20 @@ def add(package_path, package_index):
     z = zipfile.ZipFile(package_path)
     if "index.json" not in [x.filename for x in z.filelist]:
         raise IncompletePackage
+
+    with z.open("index.json") as f:
+        index_json = json.load(f)
+        package_name = index_json["name"].lower().replace(" ", "_") + ".fkmn"
+
     try:
-        shutil.copy(str(package_path), str(package_index / "packages"))
+        shutil.copy(str(package_path), str((package_index / "packages" / package_name).with_suffix('.fkmn')))
+        index_json["path"] = "packages/" + package_name + ".fkmn"
     except shutil.SameFileError:
         print("Skipping moving because of SameFileError")
 
     package_index_file = package_index / "index.json"
     with package_index_file.open() as fp:
         package_index_json = json.load(fp)
-
-    with z.open("index.json") as f:
-        index_json = json.load(f)
-    index_json["path"] = "packages/" + str(package_path.name)
 
     for package in package_index_json:
         if package["version"] == index_json["version"]:

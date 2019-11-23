@@ -1,7 +1,7 @@
 [
   {
     "name": "Legendary Baby Birds",
-    "path": "packages/baby birds.fkmn",
+    "path": "packages/legendary_baby_birds.fkmn",
     "author": "Jerakin",
     "description": "Kanto Legendary Baby Birds JOEtheDM.\nArt by ShinArt on YouTube.",
     "version": 3
@@ -11,27 +11,27 @@
     "author": "Junkman",
     "description": "Aura abilitlies are gifts from Ho-oh before it passed. Actual fakemon art by ShinArt on Youtube. Mainly Gen VII. ",
     "version": 6,
-    "path": "packages/Red Federation.fkmn"
+    "path": "packages/red_federation.fkmn"
   },
   {
     "name": "Poke by Adod",
     "author": "JuanTipo",
     "description": "Variant types created by our DM, images to come.",
-    "version": 3,
-    "path": "packages/AdodsOPEmporium.fkmn"
+    "version": 4,
+    "path": "packages/poke_by_adod.fkmn"
   },
   {
     "name": "Mystifying Marvels",
     "author": "Jerakin",
     "description": "Pokémon from future generations that are needed for my campaign.",
     "version": 1,
-    "path": "packages/Mystifying Marvels.fkmn"
+    "path": "packages/mystifying_marvels.fkmn"
   },
   {
     "name": "Strict Genders",
     "author": "Jerakin",
     "description": "Enforces strict genders on Pokémon that have it in the game. Not all Pokémon can be any gender.",
     "version": 1,
-    "path": "packages/strict_gender.fkmn"
+    "path": "packages/strict_genders.fkmn"
   }
 ]
