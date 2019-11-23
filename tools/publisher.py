@@ -55,12 +55,15 @@ def add(package_path, package_index):
 
     for package in package_index_json:
         if package["name"] == index_json["name"]:
-            if package["version"] == index_json["version"]:
-                print("Package have the same version", index_json["version"])
             package["name"] = index_json["name"]
             package["author"] = index_json["author"]
             package["description"] = index_json["description"]
-            package["version"] = index_json["version"]
+
+            if package["version"] == index_json["version"]:
+                print("Package have the same version", index_json["version"])
+                package["version"] = package["version"] + 1
+            else:
+                package["version"] = index_json["version"]
             break
     else:  # NoBreak
         entry = {
