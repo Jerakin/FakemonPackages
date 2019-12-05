@@ -40,5 +40,12 @@
     "author": "fearjunkie",
     "description": "",
     "version": 1
+  },
+  {
+    "name": "Alolan Pokemon Variations",
+    "path": "packages/alolan_pokemon_variations.fkmn.fkmn",
+    "author": "OniLink",
+    "description": "Here goes nothing. ",
+    "version": 1
   }
 ]

@@ -77,6 +77,7 @@ def add(package_path, package_index):
 
     with package_index_file.open("w") as fp:
         json.dump(package_index_json, fp, indent="  ", ensure_ascii=False)
+    print("Finished")
 
 
 def print_help():
