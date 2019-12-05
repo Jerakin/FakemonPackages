@@ -45,7 +45,7 @@ def add(package_path, package_index):
 
     try:
         shutil.copy(str(package_path), str((package_index / "packages" / package_name).with_suffix('.fkmn')))
-        index_json["path"] = "packages/" + package_name + ".fkmn"
+        index_json["path"] = "packages/" + package_name
     except shutil.SameFileError:
         print("Skipping moving because of SameFileError")
 
