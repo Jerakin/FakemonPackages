@@ -47,5 +47,12 @@
     "author": "OniLink",
     "description": "Here goes nothing. ",
     "version": 1
+  },
+  {
+    "name": "Johto Server",
+    "path": "packages/johto_server.fkmn",
+    "author": "Professor OniLink",
+    "description": "Here goes nothing. Part 2",
+    "version": 2
   }
 ]
