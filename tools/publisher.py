@@ -68,7 +68,7 @@ def add(package_path, package_index):
     else:  # NoBreak
         entry = {
             "name": index_json["name"],
-            "path": "packages/" + package_name + ".fkmn",
+            "path": "packages/" + package_name,
             "author": index_json["author"],
             "description": index_json["description"],
             "version": index_json["version"]
