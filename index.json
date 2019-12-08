@@ -54,5 +54,12 @@
     "author": "Professor OniLink",
     "description": "Package containing the alolan versions and the Legendary Baby Birds.",
     "version": 1
+  },
+  {
+    "name": "Johto Server",
+    "path": "packages/johto_server.fkmn",
+    "author": "Professor OniLink",
+    "description": "Here goes nothing. Part 3\n\nThis contains the legendary birds, Galarian Forms, and Alolan Forms.",
+    "version": 3
   }
 ]
