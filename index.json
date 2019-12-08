@@ -49,10 +49,10 @@
     "version": 1
   },
   {
-    "name": "Johto Server",
-    "path": "packages/johto_server.fkmn",
+    "name": "Alolan and Baby Birds",
+    "path": "packages/alolan_and_baby_birds.fkmn",
     "author": "Professor OniLink",
-    "description": "Here goes nothing. Part 2",
-    "version": 2
+    "description": "Package containing the alolan versions and the Legendary Baby Birds.",
+    "version": 1
   }
 ]
