@@ -23,7 +23,7 @@
   {
     "name": "Mystifying Marvels",
     "author": "Jerakin",
-    "description": "Pokémon from future generations that are needed for my campaign.",
+    "description": "Pokémon from future generations that are needed for my campaign. Only Alolan Diglett and Dugtrio.",
     "version": 1,
     "path": "packages/mystifying_marvels.fkmn"
   },
@@ -45,15 +45,15 @@
     "name": "Alolan Pokemon Variations",
     "path": "packages/alolan_pokemon_variations.fkmn",
     "author": "Professor OniLink",
-    "description": "Here goes nothing. ",
+    "description": "Here goes nothing. Part 1\n\nThis contains the Alolan Forms.",
     "version": 1
   },
   {
     "name": "Alolan and Baby Birds",
     "path": "packages/alolan_and_baby_birds.fkmn",
     "author": "Professor OniLink",
-    "description": "Package containing the alolan versions and the Legendary Baby Birds.",
-    "version": 1
+    "description": "Here goes nothing. Part 2\n\n This contains the legendary birds and Alolan Forms.",
+    "version": 2
   },
   {
     "name": "Johto Server",
