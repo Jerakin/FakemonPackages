@@ -42,17 +42,17 @@
     "version": 2
   },
   {
-    "name": "Alolan Pokemon Variations",
+    "name": "Alolan Variations",
     "path": "packages/alolan_pokemon_variations.fkmn",
     "author": "Professor OniLink",
-    "description": "This contains the Alolan Forms.",
+    "description": "This contains the Alolan Forms.\nUse 'Johto Server' for up to date Pokemon.",
     "version": 1
   },
   {
     "name": "Alolan and Baby Birds",
     "path": "packages/alolan_and_baby_birds.fkmn",
     "author": "Professor OniLink",
-    "description": "This contains the legendary birds and Alolan Forms.",
+    "description": "This contains the legendary birds and Alolan Forms.\nUse 'Johto Server' for up to date Pokemon.",
     "version": 2
   },
   {
