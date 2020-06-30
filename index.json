@@ -45,21 +45,21 @@
     "name": "Alolan Pokemon Variations",
     "path": "packages/alolan_pokemon_variations.fkmn",
     "author": "Professor OniLink",
-    "description": "Here goes nothing. Part 1\nThis contains the Alolan Forms.",
+    "description": "This contains the Alolan Forms.",
     "version": 1
   },
   {
     "name": "Alolan and Baby Birds",
     "path": "packages/alolan_and_baby_birds.fkmn",
     "author": "Professor OniLink",
-    "description": "Here goes nothing. Part 2\nThis contains the legendary birds and Alolan Forms.",
+    "description": "This contains the legendary birds and Alolan Forms.",
     "version": 2
   },
   {
     "name": "Johto Server",
     "path": "packages/johto_server.fkmn",
     "author": "Professor OniLink",
-    "description": "Here goes nothing. Part 4\n\nThis contains the legendary birds, Galarian Forms, and Alolan Forms.\n\nminor fixes to the legendary brids",
-    "version": 4
+    "description": "This contains the legendary birds, Galarian Forms, and Alolan Forms.",
+    "version": 5
   }
 ]
