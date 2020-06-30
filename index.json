@@ -59,7 +59,7 @@
     "name": "Johto Server",
     "path": "packages/johto_server.fkmn",
     "author": "Professor OniLink",
-    "description": "Here goes nothing. Part 3\nThis contains the legendary birds, Galarian Forms, and Alolan Forms.",
-    "version": 3
+    "description": "Here goes nothing. Part 4\n\nThis contains the legendary birds, Galarian Forms, and Alolan Forms.\n\nminor fixes to the legendary brids",
+    "version": 4
   }
 ]
