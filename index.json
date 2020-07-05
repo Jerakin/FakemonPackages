@@ -61,5 +61,12 @@
     "author": "Professor OniLink",
     "description": "This contains the legendary birds, Galarian Forms, and Alolan Forms.",
     "version": 5
+  },
+  {
+    "name": "Dragapult Line",
+    "path": "packages/dragapult_line.fkmn",
+    "author": "Danteodon",
+    "description": "Contains only the Dragapult lines",
+    "version": 1
   }
 ]
