@@ -75,5 +75,12 @@
     "author": "Victini1412",
     "description": "The Ptole Regional regional varients and other fakemon.",
     "version": 1
+  },
+  {
+    "name": "The Sloth N Friends δ Special",
+    "path": "packages/the_sloth_n_friends.fkmn",
+    "author": "Sloth The DM",
+    "description": "This is a package consisting of many different pokemon we know and love, but with a catch they are Delta δ Species, this means similar to regional variants they vary in type from their counterparts. The inspiration for this was a fan game called Insurgence. This is the package my group will us on ouw pokemon adventure that you can join us on by looking for Sloth N Friends on Youtube.",
+    "version": 1
   }
 ]
