@@ -68,5 +68,12 @@
     "author": "Danteodon",
     "description": "Contains only the Dragapult line",
     "version": 2
+  },
+  {
+    "name": "Ptole Region",
+    "path": "packages/golden_buffdoof.fkmn",
+    "author": "Victini1412",
+    "description": "The Ptole Regional regional varients and other fakemon.",
+    "version": 1
   }
 ]
