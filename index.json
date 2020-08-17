@@ -82,5 +82,12 @@
     "author": "Sloth The DM",
     "description": "They are Delta Species, similar but vary in type. Inspiration from Insurgence. Join us, Sloth N Friends on Youtube.",
     "version": 1
+  },
+  {
+    "name": "Scandinavia",
+    "path": "packages/scandinavian_region.fkmn",
+    "author": "Hope",
+    "description": "Scandinavian (or Hednean) Region inspired by Mr. Buddy on YouTube.",
+    "version": 1
   }
 ]
