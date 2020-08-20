@@ -89,5 +89,12 @@
     "author": "Hope",
     "description": "Scandinavian (or Hednean) Region inspired by Mr. Buddy on YouTube.",
     "version": 1
+  },
+  {
+    "name": "Early Legends",
+    "path": "packages/early_legends.fkmn",
+    "author": "Ivoron",
+    "description": "A few Legendary Pokemon changed to be of a lower level.",
+    "version": 1
   }
 ]
