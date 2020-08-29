@@ -96,5 +96,12 @@
     "author": "Ivoron",
     "description": "A few Legendary Pokemon changed to be of a lower level.",
     "version": 1
+  },
+  {
+    "name": "TypeNull",
+    "path": "packages/null.fkmn",
+    "author": "RavenEyes",
+    "description": "UBs and Type:Null/Silvally",
+    "version": 1
   }
 ]
