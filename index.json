@@ -59,8 +59,8 @@
     "name": "Johto Server",
     "path": "packages/johto_server.fkmn",
     "author": "Professor OniLink",
-    "description": "This contains the legendary birds, Galarian Forms, and Alolan Forms.",
-    "version": 6
+    "description": "All homebrew from the Johto Server. Aalarian, Alolan, pre evolution of the legendary birds, beast trio, and sword trio",
+    "version": 7
   },
   {
     "name": "Dragapult Line",
