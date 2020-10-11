@@ -109,6 +109,7 @@
     "path": "packages/adican.fkmn",
     "author": "ThunderTaco",
     "description": "This is a mix of homebrew and real pokemon in the Adica region. No art is my own.",
+    "version": 2
     "version": 1
   }
 ]
