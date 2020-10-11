@@ -110,6 +110,12 @@
     "author": "ThunderTaco",
     "description": "This is a mix of homebrew and real pokemon in the Adica region. No art is my own.",
     "version": 2
+  },
+  {
+    "name": "Galar by L_Cypherus",
+    "path": "packages/galar_homebrew.fkmn",
+    "author": "L_Cypherus",
+    "description": "Sizzlipede & Centiskorch.",
     "version": 1
   }
 ]
