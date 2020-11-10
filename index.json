@@ -21,20 +21,6 @@
     "path": "packages/poke_by_adod.fkmn"
   },
   {
-    "name": "Mystifying Marvels",
-    "author": "Jerakin",
-    "description": "Pokémon from future generations that are needed for my campaign. Only Alolan Diglett and Dugtrio.",
-    "version": 1,
-    "path": "packages/mystifying_marvels.fkmn"
-  },
-  {
-    "name": "Strict Genders",
-    "author": "Jerakin",
-    "description": "Enforces strict genders on Pokémon that have it in the game. Not all Pokémon can be any gender.",
-    "version": 1,
-    "path": "packages/strict_genders.fkmn"
-  },
-  {
     "name": "Rocaroja",
     "path": "packages/rocaroja.fkmn",
     "author": "fearjunkie",
@@ -42,25 +28,11 @@
     "version": 2
   },
   {
-    "name": "Alolan Variations",
-    "path": "packages/alolan_pokemon_variations.fkmn",
-    "author": "Professor OniLink",
-    "description": "This contains the Alolan Forms.\nUse 'Johto Server' for up to date Pokemon.",
-    "version": 1
-  },
-  {
-    "name": "Alolan and Baby Birds",
-    "path": "packages/alolan_and_baby_birds.fkmn",
-    "author": "Professor OniLink",
-    "description": "This contains the legendary birds and Alolan Forms.\nUse 'Johto Server' for up to date Pokemon.",
-    "version": 2
-  },
-  {
     "name": "Johto Server",
     "path": "packages/johto_server.fkmn",
     "author": "Professor OniLink",
-    "description": "All homebrew from the Johto Server. Aalarian, Alolan, pre evolution of the legendary birds, beast trio, and sword trio",
-    "version": 11
+    "description": "All homebrew from the Johto Server. Aalarian, pre evolution of the legendary birds, beast trio, and sword trio",
+    "version": 12
   },
   {
     "name": "Dragapult Line",
@@ -95,13 +67,6 @@
     "path": "packages/early_legends.fkmn",
     "author": "Ivoron",
     "description": "A few Legendary Pokemon changed to be of a lower level.",
-    "version": 1
-  },
-  {
-    "name": "TypeNull",
-    "path": "packages/null.fkmn",
-    "author": "RavenEyes",
-    "description": "UBs and Type:Null/Silvally",
     "version": 1
   },
   {
