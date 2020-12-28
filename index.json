@@ -89,5 +89,12 @@
     "author": "Frogdog#3041",
     "description": "This Pack contains Fakemon to be found in Kaskade! I do not own the art, refer to the pack by LordMediocre for weather.",
     "version": 1
+  },
+  {
+    "name": "Sendatsu",
+    "path": "packages/sendatsu.fkmn",
+    "author": "Thomas",
+    "description": "Sendatsu",
+    "version": 1
   }
 ]
