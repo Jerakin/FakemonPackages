@@ -96,5 +96,12 @@
     "author": "MrTumnus",
     "description": "Sendatsu",
     "version": 1
+  },
+  {
+    "name": "Piana's Collection",
+    "path": "packages/piana.fkmn",
+    "author": "Piana",
+    "description": "This is a serie of nice critters. Credits for all of the artworks goes too Viiperfish and Doodlelotl on twitter.",
+    "version": 1
   }
 ]
