@@ -103,5 +103,12 @@
     "author": "Piana",
     "description": "This is a serie of nice critters. Credits for all of the artworks goes too Viiperfish and Doodlelotl on twitter.",
     "version": 1
+  },
+  {
+    "name": "Gorsvan Pokemon",
+    "path": "packages/gorsvan.fkmn",
+    "author": "TonyBaloney",
+    "description": "A pack that contains all the delta pokemon, along with some fakemon",
+    "version": 1
   }
 ]
