@@ -117,5 +117,12 @@
     "author": "JAW",
     "description": "This package contains homebrew legendaries for the Pokemon 5e campaign set in the Tetsu region. I do not own the art.",
     "version": 1
+  },
+  {
+    "name": "Stratos",
+    "path": "packages/stratos.fkmn",
+    "author": "Steven",
+    "description": "Stratos package",
+    "version": 1
   }
 ]
