@@ -10,7 +10,7 @@
     "name": "Red federation",
     "author": "Junkman",
     "description": "Aura abilitlies are gifts from Ho-oh. Actual fakemon art by ShinArt on Youtube. Mainly Gen VII. ",
-    "version": 8,
+    "version": 9,
     "path": "packages/red_federation.fkmn"
   },
   {
@@ -53,7 +53,7 @@
     "path": "packages/the_sloth_n_friends.fkmn",
     "author": "Sloth The DM",
     "description": "They are Delta Species, similar but vary in type. Inspiration from Insurgence. Join us, Sloth N Friends on Youtube.",
-    "version": 1
+    "version": 2
   },
   {
     "name": "Scandinavia",
@@ -123,6 +123,20 @@
     "path": "packages/stratos.fkmn",
     "author": "Steven",
     "description": "Stratos package",
+    "version": 1
+  },
+  {
+    "name": "Lv.1 Jirachi",
+    "path": "packages/jirachi.fkmn",
+    "author": "Caleb",
+    "description": "This package only contains a Lv.1 Jirachi",
+    "version": 1
+  },
+  {
+    "name": "Galar by Sabiku",
+    "path": "packages/galar_sabiku.fkmn",
+    "author": "Sabiku",
+    "description": "Galar by Sabiku",
     "version": 1
   }
 ]
