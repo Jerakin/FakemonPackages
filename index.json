@@ -138,5 +138,12 @@
     "author": "Sabiku",
     "description": "Galar by Sabiku",
     "version": 1
+  },
+  {
+    "name": "Mogwee Line",
+	"path": "packages/mogwee.fkmn",
+    "author": "Torinn90",
+    "description": "Fan made Mogwee line. I dont own the art, the amazing art was made by @MrDjWalnut and @the_baldinosaur",
+    "version": 1
   }
 ]
