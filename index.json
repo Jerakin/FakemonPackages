@@ -145,5 +145,12 @@
     "author": "Torinn90",
     "description": "Fan made Mogwee line. I dont own the art, the amazing art was made by @MrDjWalnut and @the_baldinosaur",
     "version": 1
+  },
+  {
+    "name": "Polorus Regioun",
+	"path": "packages/polorus.fkmn",
+    "author": "Dreth92",
+    "description": "Polorus Region by Dreth92",
+    "version": 1
   }
 ]
