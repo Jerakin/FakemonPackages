@@ -152,5 +152,11 @@
     "author": "Dreth92",
     "description": "Polorus Region by Dreth92",
     "version": 1
-  }
+  },
+  {
+    "name": "Yume Regioun",
+	"path": "packages/yume_region.fkmn",
+    "author": "Jacques",
+    "description": "Yume Region by Jacques",
+    "
 ]
