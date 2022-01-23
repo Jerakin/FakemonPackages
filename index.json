@@ -159,5 +159,12 @@
     "author": "Jacques",
     "description": "Yume Region by Jacques",
     "version": 2
+  },
+  {
+    "name": "Shularix Regioun",
+	"path": "packages/shularix_region.fkmn",
+    "author": "David Dunfee",
+    "description": "Shularix Region by David Dunfee",
+    "version": 1
   }
 ]
