@@ -166,5 +166,12 @@
     "author": "David Dunfee",
     "description": "Shularix Region by David Dunfee, some art commissioned by me",
     "version": 2
+  },
+  {
+    "name": "Kessai Forms",
+	"path": "packages/kessai_forms.fkmn",
+    "author": "Kevin",
+    "description": "Kessai Forms by Kevin",
+    "version": 1
   }
 ]
