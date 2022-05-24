@@ -166,5 +166,12 @@
     "author": "David Dunfee",
     "description": "Shularix Region by David Dunfee, some art commissioned by me",
     "version": 2
+  },
+  {
+    "name": "Special Magikarp",
+    "path": "packages/special_magikarp.fkmn",
+    "author": "Tyler Westland",
+    "description": "The standard Magikarp is pathetic, but some have been really trying to do better!",
+    "version": 1
   }
 ]
