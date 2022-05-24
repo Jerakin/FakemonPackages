@@ -137,7 +137,7 @@
     "path": "packages/galar_sabiku.fkmn",
     "author": "Sabiku",
     "description": "Galar by Sabiku",
-    "version": 1
+    "version": 2
   },
   {
     "name": "Mogwee Line",
@@ -158,7 +158,7 @@
 	"path": "packages/yume_region.fkmn",
     "author": "Jacques",
     "description": "Yume Region by Jacques",
-    "version": 2
+    "version": 3
   },
   {
     "name": "Shularix Regioun",
@@ -168,8 +168,14 @@
     "version": 2
   },
   {
+    "name": "Kessai Forms",
+	"path": "packages/kessai_forms.fkmn",
+    "author": "Kevin",
+    "version": 1
+  },
+  {
     "name": "Special Magikarp",
-    "path": "packages/special_magikarp.fkmn",
+  "path": "packages/special_magikarp.fkmn",
     "author": "Tyler Westland",
     "description": "The standard Magikarp is pathetic, but some have been really trying to do better!",
     "version": 1
