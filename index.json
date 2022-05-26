@@ -171,11 +171,12 @@
     "name": "Kessai Forms",
 	"path": "packages/kessai_forms.fkmn",
     "author": "Kevin",
+	"description": "Kessai Forms by Kevin",
     "version": 1
   },
   {
     "name": "Special Magikarp",
-  "path": "packages/special_magikarp.fkmn",
+    "path": "packages/special_magikarp.fkmn",
     "author": "Tyler Westland",
     "description": "The standard Magikarp is pathetic, but some have been really trying to do better!",
     "version": 1
