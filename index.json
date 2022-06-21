@@ -180,5 +180,12 @@
     "author": "Tyler Westland",
     "description": "The standard Magikarp is pathetic, but some have been really trying to do better!",
     "version": 1
+  },
+  {
+    "name": "Galar by Baresi",
+    "path": "packages/galar_baresi.fkmn",
+    "author": "VinBarney",
+    "description": "Galar fatta bene per quei cani dei miei amici.",
+    "version": 1
   }
 ]
