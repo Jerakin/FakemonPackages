@@ -187,5 +187,12 @@
     "author": "VinBarney",
     "description": "Galar fatta bene per quei cani dei miei amici.",
     "version": 2
+  },
+  {
+    "name": "Environmon's",
+    "path": "packages/elemental_variants.fkmn",
+    "author": "Cura&Dorkly",
+    "description": "Elemental Variants",
+    "version": 1
   }
 ]
