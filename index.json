@@ -158,27 +158,41 @@
 	"path": "packages/yume_region.fkmn",
     "author": "Jacques",
     "description": "Yume Region by Jacques",
-    "version": 3
+    "version": 6
   },
   {
     "name": "Shularix Regioun",
 	"path": "packages/shularix_region.fkmn",
     "author": "David Dunfee",
     "description": "Shularix Region by David Dunfee, some art commissioned by me",
-    "version": 2
+    "version": 3
   },
   {
     "name": "Kessai Forms",
 	"path": "packages/kessai_forms.fkmn",
     "author": "Kevin",
 	"description": "Kessai Forms by Kevin",
-    "version": 3
+    "version": 4
   },
   {
     "name": "Special Magikarp",
     "path": "packages/special_magikarp.fkmn",
     "author": "Tyler Westland",
     "description": "The standard Magikarp is pathetic, but some have been really trying to do better!",
+    "version": 1
+  },
+  {
+    "name": "Galar by Baresi",
+    "path": "packages/galar_baresi.fkmn",
+    "author": "VinBarney",
+    "description": "Galar fatta bene per quei cani dei miei amici.",
+    "version": 3
+  },
+  {
+    "name": "Environmon's",
+    "path": "packages/elemental_variants.fkmn",
+    "author": "Cura&Dorkly",
+    "description": "Elemental Variants",
     "version": 1
   },
   {
