@@ -180,5 +180,12 @@
     "author": "Tyler Westland",
     "description": "The standard Magikarp is pathetic, but some have been really trying to do better!",
     "version": 1
+  },
+  {
+    "name": "Eeveelutions",
+    "path": "packages/eeveelutions.fkmn",
+    "author": "Donnie",
+    "description": "This pack includes an eeveelution of each type that already didn't exist",
+    "version": 1
   }
 ]
