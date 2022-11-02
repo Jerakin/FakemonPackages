@@ -201,5 +201,12 @@
     "author": "Donnie",
     "description": "This pack includes an eeveelution of each type that already didn't exist",
     "version": 1
+  },
+  {
+    "name": "Galar+Eeveelutions",
+    "path": "packages/galar_ee.fkmn",
+    "author": "Nova Sage",
+    "description": "Galar plus Eeveelutions.",
+    "version": 1
   }
 ]
