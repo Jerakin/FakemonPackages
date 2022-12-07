@@ -203,10 +203,17 @@
     "version": 1
   },
   {
-    "name": "Galar+Eeveelutions",
+     "name": "Galar+Eeveelutions",
     "path": "packages/galar_ee.fkmn",
     "author": "Nova Sage",
     "description": "Galar plus Eeveelutions.",
+    "version": 1
+  },
+  {
+    "name": "Galar Forms Major",
+    "path": "packages/galar_form_major.fkmn",
+    "author": "Daniel",
+    "description": "Galar by Daniel",
     "version": 1
   }
 ]
