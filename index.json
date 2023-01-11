@@ -215,5 +215,12 @@
     "author": "Daniel",
     "description": "Galar by Daniel",
     "version": 1
+  },
+  {
+    "name": "Airship",
+    "path": "packages/airship.fkmn",
+    "author": "Donniez",
+    "description": "Donniez Campaign",
+    "version": 1
   }
 ]
