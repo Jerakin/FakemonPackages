@@ -229,5 +229,12 @@
     "author": "Xousjah",
     "description": "A package of tweaks for Xousjah's P5e campaigns.",
     "version": 1
+  },
+  {
+    "name": "Generations 8&9",
+    "path": "packages/gen8_gen9.fkmn",
+    "author": "andidee15",
+    "description": "All Galar, Hisui, and Paldea pokemon. Gen 8 updated but based on Galar by Baresi. Gen 9 homebrewed.",
+    "version": 1
   }
 ]
