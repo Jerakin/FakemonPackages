@@ -236,5 +236,12 @@
     "author": "andidee15",
     "description": "All Galar, Hisui, and Paldea pokemon. Gen 8 updated but based on Galar by Baresi. Gen 9 homebrewed.",
     "version": 1
+  },
+  {
+    "name": "Veridia dex",
+    "path": "packages/veridia.fkmn",
+    "author": "VarielArt",
+    "description": "All artworks and concepts are by KyleOliver-Art on DeviantArt, look for more on his page. None of the artworks are mine.",
+    "version": 1
   }
 ]
