@@ -10,7 +10,7 @@
     "name": "Red federation",
     "author": "Junkman",
     "description": "Aura abilitlies are gifts from Ho-oh. Actual fakemon art by ShinArt on Youtube. Mainly Gen VII. ",
-    "version": 8,
+    "version": 9,
     "path": "packages/red_federation.fkmn"
   },
   {
@@ -116,6 +116,132 @@
     "path": "packages/tetsu.fkmn",
     "author": "JAW",
     "description": "This package contains homebrew legendaries for the Pokemon 5e campaign set in the Tetsu region. I do not own the art.",
+    "version": 1
+  },
+  {
+    "name": "Stratos",
+    "path": "packages/stratos.fkmn",
+    "author": "Steven",
+    "description": "Stratos package",
+    "version": 1
+  },
+  {
+    "name": "Lv.1 Jirachi",
+    "path": "packages/jirachi.fkmn",
+    "author": "Caleb",
+    "description": "This package only contains a Lv.1 Jirachi",
+    "version": 1
+  },
+  {
+    "name": "Galar by Sabiku",
+    "path": "packages/galar_sabiku.fkmn",
+    "author": "Sabiku",
+    "description": "Galar by Sabiku",
+    "version": 2
+  },
+  {
+    "name": "Mogwee Line",
+	"path": "packages/mogwee.fkmn",
+    "author": "Torinn90",
+    "description": "Fan made Mogwee line. I dont own the art, the amazing art was made by @MrDjWalnut and @the_baldinosaur",
+    "version": 1
+  },
+  {
+    "name": "Polorus Regioun",
+	"path": "packages/polorus.fkmn",
+    "author": "Dreth92",
+    "description": "Polorus Region by Dreth92",
+    "version": 1
+  },
+  {
+    "name": "Yume Regioun",
+	"path": "packages/yume_region.fkmn",
+    "author": "Jacques",
+    "description": "Yume Region by Jacques",
+    "version": 10
+  },
+  {
+    "name": "Shularix Regioun",
+	"path": "packages/shularix_region.fkmn",
+    "author": "David Dunfee",
+    "description": "Shularix Region by David Dunfee, some art commissioned by me",
+    "version": 5
+  },
+  {
+    "name": "Kessai Forms",
+	"path": "packages/kessai_forms.fkmn",
+    "author": "Kevin",
+	"description": "Kessai Forms by Kevin",
+    "version": 4
+  },
+  {
+    "name": "Special Magikarp",
+    "path": "packages/special_magikarp.fkmn",
+    "author": "Tyler Westland",
+    "description": "The standard Magikarp is pathetic, but some have been really trying to do better!",
+    "version": 1
+  },
+  {
+    "name": "Galar by Baresi",
+    "path": "packages/galar_baresi.fkmn",
+    "author": "VinBarney",
+    "description": "Galar fatta bene per quei cani dei miei amici.",
+    "version": 7
+  },
+  {
+    "name": "Environmon's",
+    "path": "packages/elemental_variants.fkmn",
+    "author": "Cura&Dorkly",
+    "description": "Elemental Variants",
+    "version": 1
+  },
+  {
+    "name": "Eeveelutions",
+    "path": "packages/eeveelutions.fkmn",
+    "author": "Donnie",
+    "description": "This pack includes an eeveelution of each type that already didn't exist",
+    "version": 2
+  },
+  {
+     "name": "Galar+Eeveelutions",
+    "path": "packages/galar_ee.fkmn",
+    "author": "Nova Sage",
+    "description": "Galar plus Eeveelutions.",
+    "version": 1
+  },
+  {
+    "name": "Galar Forms Major",
+    "path": "packages/galar_form_major.fkmn",
+    "author": "Daniel",
+    "description": "Galar by Daniel",
+    "version": 1
+  },
+  {
+    "name": "Airship",
+    "path": "packages/airship.fkmn",
+    "author": "Donniez",
+    "description": "Donniez Campaign",
+    "version": 1
+  },
+  {
+    "name": "Xousjah's Pack",
+    "path": "packages/xou_pack.fkmn",
+    "author": "Xousjah",
+    "description": "A package of tweaks for Xousjah's P5e campaigns.",
+    "version": 1
+  },
+  {
+    "name": "Generations 8&9",
+    "path": "packages/gen8_gen9.fkmn",
+    "author": "andidee15",
+    "description": "All Galar, Hisui, and Paldea pokemon. Gen 8 updated but based on Galar by Baresi. Gen 9 homebrewed.",
+    "version": 1
+  },
+  {
+    "name": "Veridia dex",
+    "path": "packages/veridia.fkmn",
+    "author": "VarielArt",
+    "description": "All artworks and concepts are by KyleOliver-Art on DeviantArt, look for more on his page. None of the artworks are mine.",
     "version": 1
   }
 ]
