@@ -243,5 +243,12 @@
     "author": "VarielArt",
     "description": "All artworks and concepts are by KyleOliver-Art on DeviantArt, look for more on his page. None of the artworks are mine.",
     "version": 1
+  },
+  {
+    "name": "North Paleon",
+    "path": "packages/po_panda.fkmn",
+    "author": "Po",
+    "description": "Another package",
+    "version": 1
   }
 ]
