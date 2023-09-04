@@ -250,5 +250,12 @@
     "author": "Po",
     "description": "Another package",
     "version": 1
+  },
+  {
+    "name": "Paco campaign",
+    "path": "packages/paco_fakemon.fkmn",
+    "author": "Pacocawins",
+    "description": "Gen 8 based by Baresi. Gen 9 based by andidee15, fakemons+ all type eeveelutions+mega forms+ fakemegas",
+    "version": 1
   }
 ]
