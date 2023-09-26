@@ -257,5 +257,12 @@
     "author": "Pacocawins",
     "description": "Gen 8 based by Baresi. Gen 9 based by andidee15, fakemons+ all type eeveelutions+mega forms+ fakemegas",
     "version": 1
+  },
+  {
+    "name": "Idioits Regional Pokemon",
+    "path": "packages/idioit_regional_starters.fkmn",
+    "author": "TheIdioitGod",
+    "description": "Regional pokemon for my Player Characters Starters",
+    "version": 1
   }
 ]
