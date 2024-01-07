@@ -264,5 +264,12 @@
     "author": "TheIdioitGod",
     "description": "Regional pokemon for my Player Characters Starters",
     "version": 1
+  },
+  {
+    "name": "ScarecrowSketch",
+    "path": "packages/scarecrow_sketch.fkmn",
+    "author": "ScarecrowSketch",
+    "description": "ScarecrowSketch Homebrew",
+    "version": 1
   }
 ]
