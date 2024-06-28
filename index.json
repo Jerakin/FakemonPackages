@@ -271,5 +271,12 @@
     "author": "ScarecrowSketch",
     "description": "ScarecrowSketch Homebrew",
     "version": 3
+  },
+  {
+    "name": "PokeEssence",
+    "path": "packages/boxmaaan.fkmn",
+    "author": "Boxmaaan",
+    "description": ":v",
+    "version": 1
   }
 ]
