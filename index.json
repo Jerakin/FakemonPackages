@@ -252,11 +252,11 @@
     "version": 1
   },
   {
-    "name": "Paco campaign",
+    "name": "paco campaign0.7",
     "path": "packages/paco_fakemon.fkmn",
     "author": "Pacocawins",
-    "description": "Gen 8 based by Baresi. Gen 9 based by andidee15, fakemons+ all type eeveelutions+mega forms+ fakemegas",
-    "version": 1
+    "description": "gen 8(imcomplete)+fakemon based on fakeregion.",
+    "version": 2
   },
   {
     "name": "Idioits Regional Pokemon",
