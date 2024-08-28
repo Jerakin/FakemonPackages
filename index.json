@@ -234,8 +234,8 @@
     "name": "Generations 8&9",
     "path": "packages/gen8_gen9.fkmn",
     "author": "andidee15",
-    "description": "All Galar, Hisui, and Paldea pokemon. Gen 8 updated but based on Galar by Baresi. Gen 9 homebrewed. v2 includes missing evolve",
-    "version": 2
+    "description": "All Galar, Hisui, and Paldea pokemon. Gen 8 updated but based on Galar by Baresi. Gen 9 homebrewed. Update to missing evolve",
+    "version": 3
   },
   {
     "name": "Veridia dex",
