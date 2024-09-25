@@ -292,5 +292,12 @@
     "author": "Wesley Zafkiel",
     "description": "Chefão final da minha campanha pessoal.",
     "version": 1
+  },
+  {
+    "name": "Jaxson",
+    "path": "packages/jaxson.fkmn",
+    "author": "Jaxson",
+    "description": "Jaxson",
+    "version": 1
   }
 ]
