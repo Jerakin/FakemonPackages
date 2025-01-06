@@ -299,5 +299,12 @@
     "author": "Jaxson",
     "description": "Jaxson",
     "version": 1
+  },
+  {
+    "name": "Johto Rangers",
+    "path": "packages/johto_rangers.fkmn",
+    "author": "Avatar Kiora",
+    "description": "Package for a home campaign",
+    "version": 1
   }
 ]
