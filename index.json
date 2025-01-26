@@ -306,5 +306,12 @@
     "author": "Avatar Kiora",
     "description": "Package for a home campaign",
     "version": 3
+  },
+  {
+    "name": "Monsela Region",
+    "path": "packages/monsela_region.fkmn",
+    "author": "Kasai",
+    "description": "All Galar, Hisui, and Paldea pokemon. Gen 8 updated but based on Galar by Baresi. Gen 9 andilee15. Update missing evolve.",
+    "version": 1
   }
 ]
