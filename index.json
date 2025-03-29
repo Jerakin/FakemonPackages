@@ -313,5 +313,12 @@
     "author": "Kasai",
     "description": "All Galar, Hisui, and Paldea pokemon. Gen 8 updated but based on Galar by Baresi. Gen 9 andilee15. Update missing evolve.",
     "version": 1
+  },
+  {
+    "name": "Taiyo time",
+    "path": "packages/taiyo.fkmn",
+    "author": "Spring's rane",
+    "description": "Regional Paras line for home campaign.",
+    "version": 1
   }
 ]
