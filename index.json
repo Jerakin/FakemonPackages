@@ -320,5 +320,12 @@
     "author": "Spring's rane",
     "description": "Regional Paras line for home campaign.",
     "version": 1
+  },
+  {
+    "name": "Faykora region",
+    "path": "packages/faykora_region.fkmn",
+    "author": "Connor",
+    "description": "The Faykora region is experiencing a strange emergence of new pokemon.",
+    "version": 1
   }
 ]
