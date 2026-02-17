@@ -327,5 +327,12 @@
     "author": "Connor",
     "description": "The Faykora region is experiencing a strange emergence of new pokemon.",
     "version": 1
+  },
+  {
+    "name": "Skald",
+    "path": "packages/skald.fkmn",
+    "author": "Pim",
+    "description": "Pokemon Package for Skald.",
+    "version": 1
   }
 ]
