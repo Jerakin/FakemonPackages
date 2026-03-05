@@ -331,8 +331,8 @@
   {
     "name": "Skald",
     "path": "packages/skald.fkmn",
-    "author": "Pim",
-    "description": "Pokemon Package for Skald.",
-    "version": 1
+    "author": "Kasai",
+    "description": "All Galar, Hisui, and Paldea pokemon. Gen 8 updated but based on Galar by Baresi. Gen 9 andilee15. Update missing evolve.",
+    "version": 2
   }
 ]
